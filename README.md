@@ -9,6 +9,6 @@ Aplicação interagindo com IA Generativa + base do SQL Server:
 
 ![Aplicação](img/consoleapp-01.png)
 
-Trace gerado:
+Trace gerado (Grafana Tempo + coleta via Grafana Alloy):
 
 ![Distributed trace](img/trace-01.png)
